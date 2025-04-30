@@ -14,7 +14,7 @@ def query_weather_table(project_id: str, dataset_id: str, table_id: str):
         ORDER BY date DESC
         LIMIT 7
     """
-
+###
     job = client.query(sql)
     print("=== 최근 7일간 일별 평균 기온 ===")
     for row in job:
