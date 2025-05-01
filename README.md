@@ -18,8 +18,8 @@ This project demonstrates a simple end-to-end data pipeline that:
 
 ---
 
-## 🗂️ Project Structure
-
+## Project Structure
+```text
 openweather-data-pipeline/
 ├── data/
 │   ├── raw/                          # Raw OpenWeather JSON files
@@ -33,10 +33,10 @@ openweather-data-pipeline/
 │   └── query_bigquery_data.py        # 6. Run SQL queries in BigQuery
 ├── requirements.txt                  # Python dependencies
 └── README.md                         # This file
-
+```
 ---
 
-## ⚙️ Prerequisites
+## Prerequisites
 
 1. **Python 3.9+** and virtual environment  
 2. **OpenWeather API key** (free tier)  
