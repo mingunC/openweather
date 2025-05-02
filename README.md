@@ -10,10 +10,6 @@ This project demonstrates a simple end-to-end data pipeline that:
 5. Performs basic analytical queries in BigQuery and Pandas  
 
 <!-- 2×2 이미지 그리드 -->
-| Figure 1. Project 3 – Graph View | Figure 2. Project 3 – Calendar View |
-|:--:|:--:|
-| <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="300" /><br><em>Graph view of DAG dependencies</em> | <img src="./images/project3_calendar.png" alt="Project 3 Calendar View" width="300" /><br><em>Calendar view of scheduled runs</em> |
-
 | Figure 3. Project 1 – End-to-End Architecture | Figure 4. Project 1 – BigQuery Table Schema |
 |:--:|:--:|
 | <img src="./images/project1_architecture.png" alt="Project 1 Architecture" width="300" /><br><em>Pipeline architecture diagram</em> | <img src="./images/project1_bq_schema.png" alt="Project 1 BQ Schema" width="300" /><br><em>Loaded table schema in BigQuery</em> |
