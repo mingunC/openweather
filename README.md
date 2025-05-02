@@ -14,7 +14,7 @@ This project demonstrates a simple end-to-end data pipeline that:
 |:--:|:--:|
 | <img src="./images/project1_architecture.png" alt="Project 1 Architecture" width="300" /><br><em>Pipeline architecture diagram</em> | <img src="./images/project1_bq_schema.png" alt="Project 1 BQ Schema" width="300" /><br><em>Loaded table schema in BigQuery</em> |
 
-</div>
+
 **Tech Stack:**  
 - **Language:** Python 3.9+  
 - **Data Processing:** Pandas  
