@@ -9,12 +9,40 @@ This project demonstrates a simple end-to-end data pipeline that:
 4. Loads the processed data back into BigQuery  
 5. Performs basic analytical queries in BigQuery and Pandas  
 
-### Architecture Overview
-![Project1 Architecture](./images/project1_architecture.png)
+<div align="center">
 
-### BigQuery Table Schema
-![BigQuery Table Schema](./images/project1_bq_schema.png)
+<table>
+  <tr>
+    <!-- 첫 번째 이미지 -->
+    <td align="center">
+      <img src="./images/project3_graph.png" alt="Project 3 Graph View" width="300"/>
+      <p><em>Figure 1. Project 3 – Graph View</em></p>
+    </td>
 
+    <!-- 두 번째 이미지 -->
+    <td align="center">
+      <img src="./images/project3_calendar.png" alt="Project 3 Calendar View" width="300"/>
+      <p><em>Figure 2. Project 3 – Calendar View</em></p>
+    </td>
+  </tr>
+
+  <!-- Row 2 -->
+  <tr>
+    <!-- 프로젝트 1 아키텍처 -->
+    <td align="center">
+      <img src="./images/project1_architecture.png" alt="Project 1 Architecture" width="300"/>
+      <p><em>Figure 3. Project 1 – End-to-End Architecture</em></p>
+    </td>
+
+    <!-- 프로젝트 1 BigQuery 스키마 -->
+    <td align="center">
+      <img src="./images/project1_bq_schema.png" alt="Project 1 BQ Schema" width="300"/>
+      <p><em>Figure 4. Project 1 – BigQuery Table Schema</em></p>
+    </td>
+  </tr>
+</table>
+
+</div>
 **Tech Stack:**  
 - **Language:** Python 3.9+  
 - **Data Processing:** Pandas  
