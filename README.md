@@ -9,6 +9,10 @@ This project demonstrates a simple end-to-end data pipeline that:
 4. Loads the processed data back into BigQuery  
 5. Performs basic analytical queries in BigQuery and Pandas  
 
+![Project1 Architecture](./images/project1_architecture.png)
+![BigQuery Table Schema](./images/project1_bq_schema.png)
+
+
 **Tech Stack:**  
 - **Language:** Python 3.9+  
 - **Data Processing:** Pandas  
