@@ -1,4 +1,4 @@
-# OpenWeather Data Pipeline
+# Weather Data Pipeline
 
 ## 📖 Overview
 This project demonstrates a simple end-to-end data pipeline that:
